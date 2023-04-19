@@ -13,3 +13,4 @@ rust-project.json
 *.o
 intro1
 rustlings/
+target/
